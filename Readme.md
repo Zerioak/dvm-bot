@@ -171,8 +171,3 @@ Console prints internal errors
 **Made with ❤️ by Zerioak**
 
 
----
-
-✅ This README combines instructions, code examples, tables, JSON, emojis, and terminal outputs — ready to paste into GitHub.
-
-Give me like this ** ``
